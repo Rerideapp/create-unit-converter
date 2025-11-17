@@ -1,0 +1,15 @@
+{
+  "name": "create-unit-converter",
+  "version": "1.0.0",
+  "description": "Create a unit converter for length. Convert between meters, feet, inches, and centimeters. Display the converted value clearly.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
